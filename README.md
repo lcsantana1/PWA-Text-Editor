@@ -18,11 +18,12 @@
 
   ## Usage
   
-  Deployed link:
+  Deployed link: https://hidden-shore-42797.herokuapp.com/
   
   Screenshot:
   
-  
+  ![Screen Shot 2022-12-12 at 5 59 22 PM](https://user-images.githubusercontent.com/106941418/207200298-cc8ad2eb-0328-4ea3-b096-41831dc28e60.png)
+
   
   ## User Story
   
